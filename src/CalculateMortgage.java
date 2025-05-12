@@ -1,7 +1,6 @@
 public class CalculateMortgage {
     public final static byte percentage = 100;
     private final static byte MONTH_IN_YEAR = 12;
-    public byte getYears;
     private int principal;
     private float annualInterestRate;
     public byte years;
